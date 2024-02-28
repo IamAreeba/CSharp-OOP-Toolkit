@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Kudvenkat\Part 01 Introduction to classes.cs" />
+    <Compile Include="Kudvenkat\Part 02 Static and instance class members.cs" />
     <Compile Include="Notes\Notes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
